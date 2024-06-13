@@ -1,0 +1,10 @@
+p{
+            color:red;
+            background-color:aqua;
+            position: relative;
+            left:50vw;
+            font-size: medium;
+            border-radius: 10px;
+            display: inline;
+
+        }
